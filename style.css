@@ -1,0 +1,32 @@
+.row {
+
+    clear: left;
+}
+
+.pixel
+{
+    height: 200px;
+    width: 200px;
+    border: solid 1px black;
+    border-color: black;
+    color: black;
+
+    display: table-cell;
+    vertical-align: middle;
+
+    font-size: 150px;
+    font-style: normal;
+
+    text-align: center;
+    text-decoration: black;
+}
+
+.red {
+    background: lightcoral;
+    color: crimson;
+}
+
+.blue {
+  background: lightblue;
+  color: blue;
+}
