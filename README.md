@@ -1,2 +1,2 @@
 # galina
-# Upscale-Tic-Tac-Toe
+# Tic-Tac-Toe
